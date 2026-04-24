@@ -1,24 +1,85 @@
-<h1 align="center">Hi 👋, I'm M Sohail Maqsood</h1>
-<h3 align="center">A passionate mern stack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Sohail Maqsood</h1>
+<h3 align="center">Senior Frontend & MERN Stack Developer | Building Scalable, High-Performance Web Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail2637&label=Profile%20views&color=0e75b6&style=flat" alt="sohail2637" /> </p>
+---
 
-- 🔭 I’m currently working on [experfy](https://www.experfy.com/)
+## 🚀 About Me
 
-- 💬 Ask me about **React, Next, NodeJS, vue,**
+I’m a results-driven **Full Stack (MERN) Developer** with 5+ years of experience building scalable, user-focused web applications.
 
-- 📫 How to reach me **sohail25816@gmail.com**
+I specialize in transforming complex business requirements into clean, efficient, and high-performing digital products. My focus is not just writing code — but delivering **real business value, performance, and user experience**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sohail-maqsood-bb4ab9198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-sohail-maqsood-bb4ab9198/" height="30" width="40" /></a>
+- 🔭 Currently working on real-world scalable applications  
+- 💡 Strong focus on **performance optimization & clean architecture**  
+- 🧠 Continuously learning **AI integrations & advanced system design**  
+- ⚡ Passionate about building products that solve real problems  
+
+---
+
+## 💼 What I Bring to Your Project
+
+✔ Clean, scalable, and maintainable code  
+✔ Strong UI/UX sense with modern design standards  
+✔ Performance-first development approach  
+✔ API integration & backend architecture understanding  
+✔ Problem-solving mindset (not just coding tasks)  
+✔ Clear communication and reliable delivery  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Redux / Zustand
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+
+### Tools & Workflow
+- Git & GitHub
+- Postman
+- Vercel / Deployment
+- Agile / Scrum
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail2637&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail2637&theme=radical" alt="streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail2637&show_icons=true&locale=en&layout=compact" alt="sohail2637" /></p>
+## 📌 Featured Work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohail2637&show_icons=true&locale=en" alt="sohail2637" /></p>
+Here are some of the projects I’ve worked on:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail2637&" alt="sohail2637" /></p>
+- 🔹 **Modern Web Applications** – Scalable MERN stack apps with clean UI  
+- 🔹 **Portfolio Systems** – Dynamic, CMS-driven portfolios  
+- 🔹 **Full Stack Platforms** – API-driven systems with authentication & dashboards  
+
+*(Tip: Pin your best 4–6 repositories here for maximum impact)*
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: sohail25816@gmail.com  
+- 💼 Open for freelance & full-time opportunities  
+
+---
+
+## ⚡ Developer Philosophy
+
+> “Good code works. Great code scales, performs, and solves real problems.”
+
+---
