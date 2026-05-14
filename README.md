@@ -55,10 +55,9 @@ I am a **Senior Full-Stack Engineer** with **5+ years of experience** building s
 ## 📊 Technical Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail2637&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail2637&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohail2637&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sohail2637&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
-
 ---
 
 ## 📌 Featured Architectural Work
