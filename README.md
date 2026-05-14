@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Maqsood</h1>
-<h3 align="center">Frontend-focused Senior Full-Stack MERN & Next.js Engineer</h3>
+<h3 align="center">Senior Full-Stack Engineer | MERN & Next.js Specialist</h3>
 
 <p align="center">
   <a href="https://engsohail.vercel.app/">
@@ -15,83 +15,59 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Overview
 
-Frontend-focused Senior Full-Stack MERN & Next.js Engineer specializing in building scalable, production-ready web applications.
+I am a **Senior Full-Stack Engineer** with **5+ years of experience** building scalable, enterprise-grade web applications. My expertise lies in the **MERN Stack (MongoDB, Express, React, Node.js)** with a heavy focus on **TypeScript** and **Next.js** for production environments.
 
-I focus on delivering fast, clean, and user-centric solutions using **Next.js, React, and TypeScript**, backed by solid API architecture with **Node.js and MongoDB**.
-
-Known for a product-driven approach, maintainable code, and turning complex requirements into reliable, business-ready systems. I also design workflow automation using **n8n** to streamline operations and reduce manual work.
+> **Note on Activity:** Most of my professional contributions over the last 5 years have been within private enterprise repositories (Bitbucket, GitLab, and Azure DevOps) for international clients in the USA and UK. This public profile serves as a hub for architectural experiments and open-source contributions.
 
 ---
 
-## 💼 What I Deliver
+## 💼 Core Value Proposition
 
-✔ Scalable, production-ready applications  
-✔ Clean architecture & maintainable code  
-✔ High-performance, responsive UI  
-✔ API-driven systems & integrations  
-✔ Business-focused solutions (not just features)  
-✔ Reliable communication & delivery  
+✔ **Architecture First:** Expert in Clean Architecture, Design Patterns, and Scalable Database Schema Design.
+✔ **Frontend Mastery:** Deep expertise in Next.js 14/15, React Query, and performance optimization.
+✔ **Enterprise Workflow:** Proficient in CI/CD pipelines, Dockerization, and Agile/Scrum environments.
+✔ **Business Focused:** I don't just write code; I build solutions that drive user retention and operational efficiency.
+✔ **Automation:** Experienced in workflow automation using **n8n** and custom Node.js scripts to optimize business logic.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend & Design
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,sass" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,firebase" />
 </p>
 
-### 🚀 Tools & Workflow
+### 🚀 Infrastructure & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Technical Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail2637&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail2637&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail2637&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail2637&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Activity Overview)
+## 📌 Featured Architectural Work
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohail2637&theme=tokyo-night&hide_border=true" />
-</p>
+- 🔹 **Enterprise MERN Boilerplate:** A production-ready starter with JWT Auth, Role-Based Access Control (RBAC), and TypeScript.
+- 🔹 **Next.js Performance Hub:** Demonstrating Server Components, Intercepting Routes, and advanced Caching strategies.
+- 🔹 **API Gateway Logic:** Examples of robust middleware for rate-limiting, error handling, and request validation.
 
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohail2637/sohail2637/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 Featured Work
-
-- 🔹 Scalable MERN Stack Applications  
-- 🔹 Dynamic Portfolio & CMS Systems  
-- 🔹 Full Stack Platforms with Authentication & Dashboards  
-- 🔹 Performance Optimized Frontend Systems  
-
-👉 *Pin your best repositories here to showcase real work*
+👉 *Check my [Portfolio](https://engsohail.vercel.app/) for deep-dive case studies on FinTech and SaaS projects.*
 
 ---
 
@@ -104,25 +80,16 @@ Known for a product-driven approach, maintainable code, and turning complex requ
   <a href="https://www.linkedin.com/in/msohaildev/">
     <img src="https://img.shields.io/badge/LinkedIn-Sohail%20Maqsood-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://engsohail.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Projects-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 🌐 Professional Presence
-
-- 💼 Portfolio: https://engsohail.vercel.app/  
-- 🔗 LinkedIn: https://www.linkedin.com/in/msohaildev/  
-- 🧠 Stack Overflow: https://stackoverflow.com/users/14498213/sohail-maqsood  
-- 📸 Instagram: https://www.instagram.com/sohailmaqsood8/  
-- 👍 Facebook: https://www.facebook.com/profile.php?id=61582466352691  
+- 💼 **Portfolio:** [engsohail.vercel.app](https://engsohail.vercel.app/)  
+- 🔗 **LinkedIn:** [msohaildev](https://www.linkedin.com/in/msohaildev/)  
+- 🧠 **Stack Overflow:** [Sohail Maqsood](https://stackoverflow.com/users/14498213/sohail-maqsood)  
 
 ---
 
 ## ⚡ Developer Mindset
-
-> I build systems that are not only functional, but scalable, performant, and aligned with real business goals.
-
----
+> "Seniority is not just about years; it's about the ability to foresee technical debt and build systems that scale without breaking."
